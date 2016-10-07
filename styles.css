@@ -42,7 +42,15 @@ body {
 }
 
 .ref {
-  font-size: .7em;
+  font-size: 14px;
+  padding: 20px;
+  font-style: italic;
+  color: rgb(130, 130, 130)
+}
+
+.ref a {
+  font-size: 14px;
+  text-decoration: none;
   padding: 20px;
   font-style: italic;
   color: rgb(130, 130, 130)
